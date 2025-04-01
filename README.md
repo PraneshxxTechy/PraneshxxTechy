@@ -13,13 +13,10 @@
     <td>
       <img src="https://leetcard.jacoblin.cool/pranesh0418?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats">
     </td>
-    <td>
-      <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=pranesh845" alt="GeeksforGeeks Stats">
-    </td>
   </tr>
 </table>
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/PraneshxxTechy](https://www.linkedin.com/in/pranesh-rajagopal-9v/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ttps://www.linkedin.com/in/pranesh-rajagopal-9v/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/PraneshxxTechy])
