@@ -28,3 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneshxxtechy&show_icons=true&locale=en&layout=compact" alt="praneshxxtechy" /></p>
 <img src="https://gfgstatscard.vercel.app/pranesh845" alt="GFG stats" />
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
